@@ -1,2 +1,3 @@
-# decentralized-accreditation
-This repo is for decentralized accreditation iniciative
+# Decentralized Education Accreditation - An Ethereum Classic Project
+
+Accreditation, diploma, certificate, it's a receipt of competency backed by an authority.
